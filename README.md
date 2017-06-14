@@ -1,4 +1,4 @@
-# Latest border information for TCR5
+## Latest border information for TCR5
 
 This page holds up-to-date news on border crossings that might affect TCR5
 riders.  The information on this page is organized according to the country
@@ -9,66 +9,72 @@ section. News items are ordered newest to oldest within each country section.
 To contribute an update to this page, please email
 <borders@transcontinental.cc>.
 
-## Austria
+### Austria
 
-### Bratislava crossing into Slovakia
+#### Bratislava crossing into Slovakia
 
 * *Aug 3, 18:50* Sardines have been cleared, border operating as usual.
 * *Aug 3, 16:30* A semitrailer containing sardines has overturned and
-  ruptured on the approach to the border crossing. Take care!
+  ruptured on the approach to the border crossing where highway 9 meets
+  highway 61. Take care!
 
-## Belgium
+#### Neue Teilung crossing into Slovakia
 
-* No news.
+* *Aug 4, 20:30* An Austrian football fan riot has apparently erupted at a
+  nearby stadium and fans have shut down highway access.
 
-## Bulgaria
-
-* No news.
-
-## France
+### Belgium
 
 * No news.
 
-## Germany
+### Bulgaria
 
 * No news.
 
-## Greece
+### France
 
 * No news.
 
-## Hungary
+### Germany
 
 * No news.
 
-## Italy
+### Greece
 
 * No news.
 
-## Luxembourg
+### Hungary
 
 * No news.
 
-## Macedonia
+### Italy
 
 * No news.
 
-## Romania
+### Luxembourg
 
 * No news.
 
-## Serbia
+### Macedonia
 
 * No news.
 
-## Slovakia
+### Romania
 
 * No news.
 
-## Slovenia
+### Serbia
 
 * No news.
 
-## Switzerland
+### Slovakia
+
+* No news.
+
+### Slovenia
+
+* No news.
+
+### Switzerland
 
 * No news.
