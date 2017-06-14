@@ -1,4 +1,4 @@
-## Latest border crossing information for TCR5
+# Latest border crossing information for TCR5
 
 This page holds up-to-date news on border crossings that might affect TCR5
 riders.  The information on this page is organized according to the country
